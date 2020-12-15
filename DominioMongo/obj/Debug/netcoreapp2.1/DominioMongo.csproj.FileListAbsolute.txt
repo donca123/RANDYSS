@@ -1,0 +1,9 @@
+C:\Users\Derian\source\repos\RandyStore\DominioMongo\bin\Debug\netcoreapp2.1\DominioMongo.deps.json
+C:\Users\Derian\source\repos\RandyStore\DominioMongo\bin\Debug\netcoreapp2.1\DominioMongo.dll
+C:\Users\Derian\source\repos\RandyStore\DominioMongo\obj\Debug\netcoreapp2.1\DominioMongo.csprojAssemblyReference.cache
+C:\Users\Derian\source\repos\RandyStore\DominioMongo\obj\Debug\netcoreapp2.1\DominioMongo.csproj.CoreCompileInputs.cache
+C:\Users\Derian\source\repos\RandyStore\DominioMongo\obj\Debug\netcoreapp2.1\DominioMongo.AssemblyInfoInputs.cache
+C:\Users\Derian\source\repos\RandyStore\DominioMongo\obj\Debug\netcoreapp2.1\DominioMongo.AssemblyInfo.cs
+C:\Users\Derian\source\repos\RandyStore\DominioMongo\bin\Debug\netcoreapp2.1\DominioMongo.pdb
+C:\Users\Derian\source\repos\RandyStore\DominioMongo\obj\Debug\netcoreapp2.1\DominioMongo.dll
+C:\Users\Derian\source\repos\RandyStore\DominioMongo\obj\Debug\netcoreapp2.1\DominioMongo.pdb
